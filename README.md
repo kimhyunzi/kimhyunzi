@@ -18,18 +18,10 @@
 
 ```python
 class Hyunji:
-    name       = "김현지 (Kim Hyunji)"    # 🎀
-    university = "광운대학교 (Kwangwoon University)"
-    major      = "로봇학부 (School of Robotics)"
-
-    interests  = [
-        "🧠 Deep Learning",
-        "👁️ Computer Vision",
-        "🤖 Robotics AI",
-    ]
-
-    languages  = ["Python 🐍", "C++ ⚙️"]
-    motto      = "작은 걸음이 모여 큰 발자국이 된다 🐾"
+    university = "Kwangwoon University"
+    major      = "School of Robotics"
+    interests  = ["Deep Learning", "Computer Vision", "Robotics AI"]
+    languages  = ["Python", "C++"]
 ```
 
 <br/>
@@ -48,7 +40,7 @@ class Hyunji:
   ![PyTorch](https://img.shields.io/badge/PyTorch-FFDDD2?style=for-the-badge&logo=pytorch&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FFE8A1?style=for-the-badge&logo=tensorflow&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/OpenCV-D4F1C0?style=for-the-badge&logo=opencv&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-E8D5FF?style=for-the-badge&logo=scikitlearn&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-E8D5FF?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
   <!-- Tools -->
   ![Jupyter](https://img.shields.io/badge/Jupyter-FFD6E7?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -65,13 +57,13 @@ class Hyunji:
 ## 📊 GitHub Stats ✨
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimhyunji&show_icons=true&theme=tokyonight&bg_color=fff0f5&title_color=ff85a1&icon_color=ffb3c6&text_color=a0aec0&border_color=ffd6e7&border_radius=20&hide_border=false" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kimhyunzi&show_icons=true&theme=tokyonight&bg_color=fff0f5&title_color=ff85a1&icon_color=ffb3c6&text_color=a0aec0&border_color=ffd6e7&border_radius=20&hide_border=false" height="165" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyunji&layout=compact&theme=tokyonight&bg_color=f0f8ff&title_color=85b4ff&text_color=a0aec0&border_color=c8e6ff&border_radius=20&hide_border=false" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyunzi&layout=compact&theme=tokyonight&bg_color=f0f8ff&title_color=85b4ff&text_color=a0aec0&border_color=c8e6ff&border_radius=20&hide_border=false" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kimhyunji&theme=tokyonight&background=fff9fc&ring=FFB3C6&fire=FF85A1&currStreakLabel=A0AEC0&border=FFD6E7&border_radius=20" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kimhyunzi&theme=tokyonight&background=fff9fc&ring=FFB3C6&fire=FF85A1&currStreakLabel=A0AEC0&border=FFD6E7&border_radius=20" alt="GitHub Streak" />
 </p>
 
 <br/>
@@ -101,7 +93,7 @@ class Hyunji:
     <img src="https://img.shields.io/badge/Email-FFB3C6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/kimhyunji">
+  <a href="https://github.com/kimhyunzi">
     <img src="https://img.shields.io/badge/GitHub-C8E6FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
@@ -115,7 +107,7 @@ class Hyunji:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kimhyunji&color=ffb3c6&style=flat-square&label=✨+visitors" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kimhyunzi&color=ffb3c6&style=flat-square&label=✨+visitors" alt="profile views" />
 </p>
 
 <!--  🌊 footer  -->
