@@ -1,85 +1,95 @@
+<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=kimhyunzi&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Vision%20%7C%20Deep%20Learning&descAlignY=55&descSize=18" />
+</div>
+
+<!-- Typing animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6495ED&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+kimhyunzi+%F0%9F%91%8B;Computer+Vision+%26+Deep+Learning+%F0%9F%A4%96;Always+learning+something+new+%F0%9F%8C%B1" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
 ---
 
-## ⚡ Tech Stack
+## 🙋‍♂️ About Me
 
-<div align="center">
+```python
+class kimhyunzi:
+    location   = "Seoul, South Korea 🇰🇷"
+    university = "Kwangwoon University (광운대학교) 🎓"
+    major      = "School of Robotics (로봇학부) 🤖"
+    interests  = ["Computer Vision 👁️", "Deep Learning 🧠"]
+    languages  = ["Python 🐍"]
+    now        = "Exploring the world of AI & Vision"
+```
 
-**🐍 Language**
+---
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+## 🛠️ Tech Stack
 
-**👁️ Vision & AI**
+**Language**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Deep Learning & CV Frameworks**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**🛠️ Tools**
+**Tools & Environment**
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=kimhyunzi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyunzi&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimhyunzi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyunzi&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimhyunzi&theme=radical&hide_border=true" />
-</div>
-
----
-
-## 🔭 지금 파고 있는 것들
-
-<div align="center">
-
-| 🔍 분야 | 📌 키워드 |
-|:---:|:---|
-| Object Detection | YOLO, DETR, Faster R-CNN |
-| Segmentation | Mask R-CNN, SAM |
-| Vision Transformer | ViT, Swin Transformer |
-| Generative Models | GAN, Stable Diffusion |
-| Robotics + Vision | 로봇 눈 달아주기 🤖👁️ |
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimhyunzi&theme=tokyonight" />
 </div>
 
 ---
 
-## 📫 찾아오는 법
+## 🌱 Currently Interested In
+
+- 🔍 Object Detection & Image Segmentation
+- 🧬 Vision Transformer (ViT)
+- 🎨 Generative Models (GAN, Diffusion)
+- 📦 Model Optimization & Deployment
+
+---
+
+## 📫 Contact
 
 <div align="center">
-
   <a href="mailto:your-email@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/kimhyunzi">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
-<br/><br/>
-
-> 💬 *"컴퓨터가 세상을 볼 수 있다면, 무엇을 제일 먼저 보고 싶을까?"*
-
 </div>
 
 ---
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kimhyunzi&color=00ffc8&style=flat-square&label=👾+방문자+수"/>
+  <img src="https://komarev.com/ghpvc/?username=kimhyunzi&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </div>
