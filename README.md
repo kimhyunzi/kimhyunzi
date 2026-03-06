@@ -19,8 +19,8 @@
 ```python
 class kimhyunzi:
     location   = "Seoul, South Korea 🇰🇷"
-    university = "Kwangwoon University (광운대학교) 🎓"
-    major      = "School of Robotics (로봇학부) 🤖"
+    university = "Kwangwoon University🎓"
+    major      = "School of Robotics 🤖"
     interests  = ["Computer Vision 👁️", "Deep Learning 🧠"]
     languages  = ["Python 🐍"]
     now        = "Exploring the world of AI & Vision"
@@ -67,7 +67,6 @@ class kimhyunzi:
 
 - 🔍 Object Detection & Image Segmentation
 - 🧬 Vision Transformer (ViT)
-- 🎨 Generative Models (GAN, Diffusion)
 - 📦 Model Optimization & Deployment
 
 ---
