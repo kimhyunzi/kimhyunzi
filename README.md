@@ -1,94 +1,124 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=kimhyunzi&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Vision%20%7C%20Deep%20Learning&descAlignY=55&descSize=18" />
-</div>
+<!--  ✨ header ✨  -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb3c6,50:ffd6e7,100:c8e6ff&height=200&section=header&text=Hi%2C%20I'm%20Hyunji!%20🎀&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Welcome%20to%20my%20little%20cozy%20corner%20✨&descAlignY=58&descSize=18&animation=twinkling" />
+</p>
 
-<!-- Typing animation -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6495ED&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+kimhyunzi+%F0%9F%91%8B;%26+%F0%9F%A4%96;Always+learning+something+new+%F0%9F%8C%B1" alt="Typing SVG" />
-  </a>
-</div>
+<br/>
+
+<!--  🌸 intro  -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=22&pause=1000&color=FFB3C6&center=true&vCenter=true&width=500&lines=🤖+Robotics+%26+AI+Enthusiast;👁️+Computer+Vision+Explorer;🐾+Deep+Learning+Researcher;✨+Kwangwoon+Univ.+Student" alt="Typing SVG" />
+</p>
 
 <br/>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🌷 About Me
 
 ```python
-class kimhyunzi:
-    location   = "Seoul, South Korea 🇰🇷"
-    university = "Kwangwoon University🎓"
-    major      = "School of Robotics 🤖"
-    interests  = ["Computer Vision 👁️", "Deep Learning 🧠"]
-    languages  = ["Python 🐍"]
-    now        = "Exploring the world of AI & Vision"
+class Hyunji:
+    name       = "김현지 (Kim Hyunji)"    # 🎀
+    university = "광운대학교 (Kwangwoon University)"
+    major      = "로봇학부 (School of Robotics)"
+
+    interests  = [
+        "🧠 Deep Learning",
+        "👁️ Computer Vision",
+        "🤖 Robotics AI",
+    ]
+
+    languages  = ["Python 🐍", "C++ ⚙️"]
+    motto      = "작은 걸음이 모여 큰 발자국이 된다 🐾"
 ```
+
+<br/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Language**
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  <!-- Languages -->
+  ![Python](https://img.shields.io/badge/Python-FFB3C6?style=for-the-badge&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-C8E6FF?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Deep Learning & CV Frameworks**
+  <!-- AI / ML -->
+  ![PyTorch](https://img.shields.io/badge/PyTorch-FFDDD2?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FFE8A1?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-D4F1C0?style=for-the-badge&logo=opencv&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-E8D5FF?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  <!-- Tools -->
+  ![Jupyter](https://img.shields.io/badge/Jupyter-FFD6E7?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-C8E6FF?style=for-the-badge&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FFECD2?style=for-the-badge&logo=linux&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/VSCode-D4F1C0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-**Tools & Environment**
+</p>
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimhyunzi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyunzi&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimhyunzi&theme=tokyonight" />
-</div>
+<br/>
 
 ---
 
-## 🌱 Currently Interested In
+## 📊 GitHub Stats ✨
 
-- 🔍 Object Detection & Image Segmentation
-- 🧬 Vision Transformer (ViT)
-- 📦 Model Optimization & Deployment
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimhyunji&show_icons=true&theme=tokyonight&bg_color=fff0f5&title_color=ff85a1&icon_color=ffb3c6&text_color=a0aec0&border_color=ffd6e7&border_radius=20&hide_border=false" height="165" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyunji&layout=compact&theme=tokyonight&bg_color=f0f8ff&title_color=85b4ff&text_color=a0aec0&border_color=c8e6ff&border_radius=20&hide_border=false" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kimhyunji&theme=tokyonight&background=fff9fc&ring=FFB3C6&fire=FF85A1&currStreakLabel=A0AEC0&border=FFD6E7&border_radius=20" alt="GitHub Streak" />
+</p>
+
+<br/>
 
 ---
 
-## 📫 Contact
+## 🎀 Interests & Research
 
-<div align="center">
-  <a href="mailto:kimhyunzi1005l@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<p align="center">
+
+| 🔬 분야 | 💡 관심 주제 |
+|:---:|:---|
+| 🧠 **Deep Learning** | Neural Networks, Transformer, GAN |
+| 👁️ **Computer Vision** | Object Detection, Segmentation, 3D Vision |
+| 🤖 **Robotics AI** | Perception, SLAM, Autonomous Navigation |
+
+</p>
+
+<br/>
+
+---
+
+## 🐾 Let's Connect!
+
+<p align="center">
+  <a href="mailto:hyunji@example.com">
+    <img src="https://img.shields.io/badge/Email-FFB3C6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/kimhyunzi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  &nbsp;
+  <a href="https://github.com/kimhyunji">
+    <img src="https://img.shields.io/badge/GitHub-C8E6FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Blog-D4F1C0?style=for-the-badge&logo=tistory&logoColor=white" />
+  </a>
+</p>
+
+<br/>
 
 ---
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kimhyunji&color=ffb3c6&style=flat-square&label=✨+visitors" alt="profile views" />
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kimhyunzi&color=blueviolet&style=flat-square&label=Profile+Views"/>
-</div>
+<!--  🌊 footer  -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8e6ff,50:ffd6e7,100:ffb3c6&height=130&section=footer&animation=twinkling" />
+</p>
