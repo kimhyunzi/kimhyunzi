@@ -1,6 +1,18 @@
 <div align="center">
 
-<img src="header.svg" alt="header" width="100%"/>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=300&size=28&duration=3000&pause=2000&color=EFEFEF&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Hyunji.)](https://git.io/typing-svg)
+
+<br/>
+
+`ROBOTICS`
+
+<br/>
+
+*computer vision · ai training · robotics*
+
+<br/>
 
 </div>
 
@@ -33,4 +45,4 @@
 
 ---
 
-*"Vision before motion. Always."* &nbsp;·&nbsp; [github](https://github.com/kimhyunzi) &nbsp;·&nbsp; [email](mailto:kimhyunzi1005@gmail.com)
+*"Vision before motion. Always."* &nbsp;·&nbsp; [github](https://github.com/kimhyunzi) &nbsp;·&nbsp; [email](mailto:your@email.com)
